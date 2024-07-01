@@ -1,6 +1,5 @@
 R code to accompany:
-Disentangling the effect of geomorphological features and tall shrubs on snow depth variation in a sub-Arctic watershed using UAV derived products
-https://doi.org/10.5194/egusphere-2023-968, 2023
+Large spatial variability in snow depth observed in a sub-Arctic watershed is driven by both microtopography and shrub distribution
 Ian Shirley
 IShirley@lbl.gov
 
