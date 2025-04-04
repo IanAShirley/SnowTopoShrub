@@ -1,6 +1,5 @@
 R code to accompany:
-Large spatial variability in snow depth observed in a sub-Arctic watershed is driven by both microtopography and shrub distribution
-Ian Shirley
+Disentangling the Impacts of Microtopography and Shrub Distribution on Snow Depth in a Sub-Arctic Watershed: Toward a Predictive Understanding of Snow Spatial Variability
 IShirley@lbl.gov
 
 Input maps (snow depth, surface elevation, distance from 1m+ vegetation, vegetation 
